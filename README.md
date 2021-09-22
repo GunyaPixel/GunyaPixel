@@ -1,6 +1,9 @@
-# Sergey Denisovich
-<br/>
-Hi, I'm a web developer who builds websites using HTML, CSS, JavaScript, PHP, SQL and MySQL.
+## Biography
+Hi, I am a web developer who builds websites using HTML, CSS, JavaScript, PHP, SQL and MySQL. I like the field of web development, because you can create websites and understand that everyone can see it, you understand that in this way you can inform people in any country and even in space.
+
+## Contact me
+- [VK](https://vk.com/id673347518)
+- 
 
 <!--
 **GunyaPixel/GunyaPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
