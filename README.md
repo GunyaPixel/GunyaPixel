@@ -3,7 +3,7 @@ Hi, I am a web developer who builds websites using HTML, CSS, JavaScript, PHP, S
 
 ## Contact me
 - [VK](https://vk.com/id673347518)
-- 
+- [GitHub](https://github.com/GunyaPixel)
 
 <!--
 **GunyaPixel/GunyaPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
