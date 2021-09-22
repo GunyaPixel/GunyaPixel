@@ -22,5 +22,11 @@
 </ol>
 
 <h2>Public repositories</h2>
-<a href="https://github.com/GunyaPixel/businessCardWebsite" target="_blank">Business card website</a>
-<p>Coming soon</p>
+<ul>
+  <li>
+    <a href="https://github.com/GunyaPixel/businessCardWebsite" target="_blank">Business card website</a>
+  </li>
+  <li>
+    <p>Coming soon</p>
+  </li>
+</ul>
