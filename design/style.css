@@ -1,0 +1,13 @@
+﻿.links {
+
+  display: grid;
+
+  grid-auto-flow: column;
+
+  grid-gap: 16px;
+
+  align-items: center;
+
+  text-align: center;
+
+}
