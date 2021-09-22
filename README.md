@@ -3,7 +3,7 @@ Hi, I am a web developer who builds websites using HTML, CSS, JavaScript, PHP, S
 
 ## Contact me
 - [VK](https://vk.com/id673347518)
-- Coming soon
+- [Telegram](https://t.me/gunyapixel)
 
 ## Public repositories
 - [Business card website](https://github.com/GunyaPixel/businessCardWebsite)
