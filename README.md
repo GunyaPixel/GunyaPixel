@@ -6,7 +6,6 @@
   <a style="margin-left: 16px;" href="https://vk.com/id673347518" target="_blank">
     <img src="sign/vk.png" width="32px" height="32px"></img>
   </a>
-  <br/>
   <a href="https://t.me/gunyapixel" target="_blank">
     <img src="sign/telegram.png" width="32px" height="32px"></img>
   </a>
