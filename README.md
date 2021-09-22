@@ -3,10 +3,10 @@
 
 <h2>Contact me</h2>
 <a href="https://vk.com/id673347518" target="_blank">
-  <img src="multimedia/sign/vk.png" width="32px" height="32px"></img>
+  <img src="sign/vk.png" width="32px" height="32px"></img>
 </a>
 <a href="https://t.me/gunyapixel" target="_blank">
-  <img src="multimedia/sign/telegram.png" width="32px" height="32px"></img>
+  <img src="sign/telegram.png" width="32px" height="32px"></img>
 </a>
 
 <h2>Public repositories</h2>
