@@ -1,25 +1,10 @@
-## Biography
-Hi, I am a web developer who builds websites using HTML, CSS, JavaScript, PHP, SQL and MySQL. I like the field of web development, because you can create websites and understand that everyone can see it, you understand that in this way you can inform people in any country and even in space.
+<h2>Biography</h2>
+<p>Hi, I am a web developer who builds websites using HTML, CSS, JavaScript, PHP, SQL and MySQL. I like the field of web development, because you can create websites and understand that everyone can see it, you understand that in this way you can inform people in any country and even in space.</p>
 
-## Contact me
-- [VK](https://vk.com/id673347518)
-- [Telegram](https://t.me/gunyapixel)
+<h2>Contact me</h2>
+<a href="https://vk.com/id673347518" target="_blank">VK</a>
+<a href="https://t.me/gunyapixel" target="_blank">Telegram</a>
 
-## Public repositories
-- [Business card website](https://github.com/GunyaPixel/businessCardWebsite)
-- Coming soon
-
-<!--
-**GunyaPixel/GunyaPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Public repositories</h2>
+<a href="https://github.com/GunyaPixel/businessCardWebsite" target="_blank">Business card website</a>
+<p>Coming soon</p>
