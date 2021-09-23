@@ -8,6 +8,9 @@
 <a href="https://t.me/gunyapixel" target="_blank">
   <img src="sign/telegram.png" width="32px" height="32px"></img>
 </a>
+<a href="https://www.reddit.com/user/GunyaPixel" target="_blank">
+  <img src="sign/reddit.png" width="32px" height="32px"></img>
+</a>
 
 <h2>Answers to FAQ</h2>
 <p>1. Can I change and use the repository?</p>
