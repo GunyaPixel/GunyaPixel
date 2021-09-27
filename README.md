@@ -1,5 +1,5 @@
 <h2>Biography</h2>
-<p>Hi, I am a web developer who builds websites using HTML, CSS, JavaScript, PHP, SQL and MySQL. I like the field of web development, because you can create websites and understand that everyone can see it, you understand that in this way you can inform people in any country and even in space.</p>
+<p>Hi, I am a Web Developer who creates websites and web applications using HTML, CSS, JavaScript, PHP, Swift, Java, SQL and MySQL. I like the field of web development, because you can create websites and understand that everyone can see it, you understand that in this way you can inform people in any country and even in space.</p>
 
 <h2>Contact me</h2>
 <a href="https://vk.com/id673347518">
